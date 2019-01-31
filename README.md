@@ -11,4 +11,4 @@ To install:
 4. cp opencorsairlink.chart.py /usr/libexec/netdata/python.d
 5. systemctl restart netdata
 
-See [my blog](https://blog.donbowman.ca/2017/11/26/the-new-corsair-supply-and-netdata/) for more.
+
