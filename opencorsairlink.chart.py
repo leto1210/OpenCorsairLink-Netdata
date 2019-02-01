@@ -104,7 +104,7 @@ class Service(ExecutableService):
                         data[x] = int ( float(keyv) * 100)
                     lm = x
             elif len(lm) > 0:
-                fields = l.split(' ')
+                fields = l.split(' :')
                 if (fields[0] == 'Voltage'):
                     data['out_%s_v' % lm] = int( float(fields[-1]) * 100)
                 elif (fields[0] == 'Amps'):
