@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # Description: OpenCorsairLink netdata python module
-# Author: Don Bowman (db@donbowman.ca)
+# Credit: Don Bowman (db@donbowman.ca)
+# Modified by: leto1210
 
 #from bases.FrameworkServices.ExecutableService import ExecutableService
 from base import ExecutableService
